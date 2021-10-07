@@ -1,5 +1,5 @@
 
-DATA 512 Assignment 1: Data Curation
+#DATA 512 Assignment 1: Data Curation
 
 The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from December 1, 2007 through September 30, 2021. This project provides insights on how users' preference on different accessing platform changes overtime. 
 
@@ -39,6 +39,7 @@ There are step major steps in the analysis:
 
 * Analysis
   * A time series plot is created to show the overall trend of changing in views for each API (all_views) and each access platform under each API (desktop_views, mobile_views). The output plot is saved as a .png file named "traffic.png"
+  ![traffic analysis](https://github.com/Sabrinawang06/data-512-a1/blob/3ea2d68cd4adae00d4c82f677f3402f3976adeea/traffic.png)
   * Two additional plots are created; one for each API so that the trend can be views seperately. 
 
 
