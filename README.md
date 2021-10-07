@@ -1,5 +1,5 @@
 
-#DATA 512 Assignment 1: Data Curation
+# DATA 512 Assignment 1: Data Curation #
 
 The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from December 1, 2007 through September 30, 2021. This project provides insights on how users' preference on different accessing platform changes overtime. 
 
