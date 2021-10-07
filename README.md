@@ -25,7 +25,8 @@ There are step major steps in the analysis:
       * pageview_all_views: the total views of both platform (desktop and mobile) for Pageview API for that specific month/year
       * pageview_desktop_views: the total views of desktop access only for Pageview API for that specific month/year
       * pageview_mobile_views: the total views of mobile access only (combination ofr mobile website and mobile app) for Pageview API for that specific month/year
-  | Column                  | Value     |
+      
+| Column                  | Value     |
 |-------------------------|-----------|
 | year                    | YYYY      |
 | month                   | MM        |
